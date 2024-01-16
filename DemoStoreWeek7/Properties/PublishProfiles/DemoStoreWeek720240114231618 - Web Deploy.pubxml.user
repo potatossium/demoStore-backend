@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAsSkwyEEu10mqzAqLGUw47QAAAAACAAAAAAAQZgAAAAEAACAAAADBIJVXoT76Q/t0kj7535XWEg2fBGCCo+VgUFw9e2fYCQAAAAAOgAAAAAIAACAAAADpCpja4Xzpm4ZKHnnuYmh+8a2EYZyCWx2Off+O7LoiU4AAAACDc6hxvRPj3I5kFCKBYxPwDB84Z6D5hqqFaE8w4AWwa8wMe/HCHA+0ucl83hoVFrkuypv+rblg9KW01tS7LAtku/uRw2TunMgrZBy990dS7xATSzUB/A82kT0k6u+TxPhRthdy6e82OrE8N3SEwrmL/Rn2hLjlyOIXKvhvSBx7+kAAAADY8T2kFdUlgX0hIPP/8Bidl+2YiBo+heAwsExuVxccUsx8AgJhlAMy23xhg7JnLrmG5DlJxm0ZS0iCi370n7t3</EncryptedPassword>
+    <History>True|2024-01-14T10:23:52.8230489Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=demostoreweek7dbserver.database.windows.net,1433%3bInitial Catalog=DemoStore02_db%3bUser ID=storeAdmin%3bPassword=myPassword0108</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

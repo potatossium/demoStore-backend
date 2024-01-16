@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoStoreWeek7.props" />
+</Project>
